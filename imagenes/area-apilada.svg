@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-label="Esquema de áreas apiladas, con tres categorías sumadas a lo largo del tiempo; valores ficticios">
+<rect width="900" height="330" rx="20" fill="#f5f8fc"/>
+<path d="M80 40V265H855" stroke="#52667f" stroke-width="3" fill="none"/>
+<path d="M85 218 L175 211 L265 205 L355 185 L445 179 L535 156 L625 141 L715 128 L845 114 L845 264H85Z" fill="#318a77"/>
+<path d="M85 162 L175 168 L265 150 L355 143 L445 135 L535 122 L625 107 L715 86 L845 70 L845 114 L715 128 L625 141 L535 156 L445 179 L355 185 L265 205 L175 211 L85 218Z" fill="#eab35c"/>
+<path d="M85 100 L175 92 L265 105 L355 81 L445 73 L535 75 L625 62 L715 43 L845 32 L845 70 L715 86 L625 107 L535 122 L445 135 L355 143 L265 150 L175 168 L85 162Z" fill="#5598d3"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#233750"><text x="92" y="305">El borde superior refleja el total · cada franja representa una categoría</text><text x="110" y="28" font-size="15" fill="#697b91">Ejemplo ilustrativo · No son datos reales</text></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-label="Esquema de un gráfico de áreas con una magnitud que varía a lo largo del tiempo; datos ficticios">
+<rect width="900" height="320" rx="20" fill="#f5f8fc"/>
+<g stroke="#d7e0eb" stroke-width="1"><path d="M90 70H845M90 130H845M90 190H845M90 250H845"/></g>
+<path d="M90 45V255H850" fill="none" stroke="#52667f" stroke-width="3"/>
+<path d="M93 218 L190 195 L280 208 L375 143 L470 167 L560 110 L665 120 L755 68 L845 88 L845 253 L93 253 Z" fill="#60a5fa" fill-opacity=".48"/>
+<path d="M93 218 L190 195 L280 208 L375 143 L470 167 L560 110 L665 120 L755 68 L845 88" fill="none" stroke="#1560a8" stroke-width="5" stroke-linejoin="round"/>
+<g fill="#233750" font-family="Arial,Helvetica,sans-serif"><text x="420" y="295" font-size="22">Tiempo →</text><text x="25" y="180" transform="rotate(-90 25 180)" font-size="20">Magnitud</text><text x="110" y="40" font-size="17" fill="#697b91">Ejemplo ilustrativo · No son datos reales</text></g>
+</svg>
