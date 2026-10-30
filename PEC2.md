@@ -1,11 +1,5 @@
 # PEC 2 · Técnicas de visualización de datos
 
-**Tres representaciones · Tres preguntas · Tres fuentes de datos**
-
-> Recorrido visual para la grabación. El discurso completo está en el TXT de Droppy. Las imágenes se muestran desde `imagenes/`.
-
----
-
 ## 01 / 03 · Area Chart
 
 ### ¿Cómo ha cambiado la composición eléctrica española?
